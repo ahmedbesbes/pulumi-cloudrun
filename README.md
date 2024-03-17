@@ -1,4 +1,4 @@
-Initial setup:
+Initial setup
 
 - Install Pulumi 
 - Authenticate gcloud to your GCP account
