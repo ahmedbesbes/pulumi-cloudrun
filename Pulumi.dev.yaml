@@ -1,0 +1,4 @@
+encryptionsalt: v1:6G51vaLzzHY=:v1:sAPgGESolMjZMPnP:Av2dB/mFOHQ80SqCtU3S1tDdPF75kw==
+config:
+  gcp:project: playground-351113
+  gcp:region: europe-west1
