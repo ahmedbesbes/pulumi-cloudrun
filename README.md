@@ -1,5 +1,4 @@
 Initial setup
-
 - Install Pulumi 
 - Authenticate gcloud to your GCP account
 - Bootstrap a Pulumi project structure with `pulumi new` and choose the `container-gcp-python` template
@@ -9,5 +8,8 @@ Initial setup
     - pip install -r requirements.txt
 
 
-
+Cloudrun:
+- Connect GCP to Github
+- Whitelist the repo
+- Activate IAM API
 
